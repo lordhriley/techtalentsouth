@@ -1,299 +1,172 @@
-# Tech Talent South
+# QLX-I
 
-## How To Submit Your Exercises
+## QLX Institute
 
-[Watch Video](https://youtu.be/GCd4auHwZZY)
+### Documentation
 
-[![How To Submit Your Exercises](https://img.youtube.com/vi/GCd4auHwZZY/0.jpg)](https://www.youtube.com/watch?v=GCd4auHwZZY)
+Qualex Institute (QLX-I) [Big Data: Setup and Installation Checklist](http://qlx.services/institute/files/qlx-iBigDataChecklist.pdf)
 
-- - - 
+### Big Data
+- - -
 
-## Installation Required
+#### Hadoop
+[Hadoop For Dummies](https://qlx.services/institute/files/Hadoop-for-Dummies.pdf) (O’Reilly). Copyright 2016 O’Reilly Media, Inc., ISBN: 978-1-491-96465-1.
 
-In order to use Git Bash commands from command line, you need to install Git based on the operating system you are using: 
+#### NoSQL
 
-- [Git For Windows](https://gitforwindows.org/)
-- [Git For Mac OS](https://git-scm.com/download/mac)
+[NoSQL For Dummies](https://qlx.services/institute/files/NoSQL-for-Dummies.pdf) (O’Reilly). Copyright 2016 O’Reilly Media, Inc., ISBN: 978-1-491-96465-1.
+
+#### Spark
+[Getting Started With Apache Spark](https://qlx.services/institute/files/getting_started_with_apache_spark.pdf) (O’Reilly). Copyright 2016 O’Reilly Media, Inc., ISBN: 978-1-491-96465-1.
+
+### Data Science
+- - -
+
+#### Data Science For Dummies
+[Data Science For Dummies](https://qlx.services/institute/files/Data_Science_For_Dummies.pdf) (O’Reilly). Copyright 2016 O’Reilly Media, Inc., ISBN: 978-1-491-96465-1.
+
+## Useful Links
+
+**Github** - https://git.qlx.com/gsjackson/QLX-I/
+
+**Slack** - https://qlx-i.slack.com
+
+**Tools** 
+
+- Powershell - https://aka.ms/powershell
+- Hyper - https://hyper.is 
+- Git Bash (for Windows) - https://gitforwindows.org/
+
+## Markup Language
+
+- [Github Markup Language Cheatsheet](http://qlx.services/institute/files/markdown-cheatsheet-online.pdf)
+
+- [Jupyter Markup Language Cheatsheet](http://qlx.services/institute/files/Jupyter_Notebook_CheatSheet_Edureka.pdf)
+
+## Code Editors
+
+- Microsoft Visual Studio - https://visualstudio.microsoft.com/downloads/
+- Sublime - https://www.sublimetext.com/3
+- Atom - https://atom.io/
+
+## Google Collab
+
+### Master Big Data In Little Time / History
+ 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/bigdata/history/index.ipynb)
+
+The term ‘Big Data’ has been in use since the early 1990s. Although it is not exactly known who first used the term, most people credit John R. Mashey (who at the time worked at Silicon Graphics) for making the term popular.
+
+In its true essence, Big Data is not something that is completely new or only of the last two decades. Over the course of centuries, people have been trying to use data analysis and analytics techniques to support their decision-making process. The ancient Egyptians around 300 BC already tried to capture all existing ‘data’ in the library of Alexandria. Moreover, the Roman Empire used to carefully analyze statistics of their military to determine the optimal distribution for their armies.
+
+However, in the last two decades, the volume and speed with which data is generated has changed – beyond measures of human comprehension. The total amount of data in the world was 4.4 zettabytes in 2013. That is set to rise steeply to 44 zettabytes by 2020. To put that in perspective, 44 zettabytes is equivalent to 44 trillion gigabytes. Even with the most advanced technologies today, it is impossible to analyze all this data. The need to process these increasingly larger (and unstructured) data sets is how traditional data analysis transformed into ‘Big Data’ in the last decade.
+
+### Master Big Data In Little Time / Data: SQL
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/bigdata/data/sql/index.ipynb)
+
+Structured Query Language) is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). It is particularly useful in handling structured data, i.e. data incorporating relations among entities and variables.
+
+### Master Big Data In Little Time / Data: Hadoop
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/bigdata/data/hadoop/00.ipynb)
+
+Apache Hadoop is a collection of open-source software utilities that facilitate using a network of many computers to solve problems involving massive amounts of data and computation. It provides a software framework for distributed storage and processing of big data using the MapReduce programming model. Originally designed for computer clusters built from commodity hardware—still the common use—it has also found use on clusters of higher-end hardware. All the modules in Hadoop are designed with a fundamental assumption that hardware failures are common occurrences and should be automatically handled by the framework.
+
+### Master Big Data In Little Time / Data: NoSQL
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/bigdata/data/nosql/00.ipynb)
+
+A NoSQL (originally referring to "non-SQL" or "non-relational") database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. Such databases have existed since the late 1960s, but the name "NoSQL" was only coined in the early 21st century, triggered by the needs of Web 2.0 companies. NoSQL databases are increasingly used in big data and real-time web applications. NoSQL systems are also sometimes called "Not only SQL" to emphasize that they may support SQL-like query languages or sit alongside SQL databases in polyglot-persistent architectures.
+
+### Master Big Data In Little Time / Data: Spark
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/bigdata/data/spark/00.ipynb)
+
+Apache Spark is an open-source distributed general-purpose cluster-computing framework. Spark provides an interface for programming entire clusters with implicit data parallelism and fault tolerance.
+
+## Software
+
+Anaconda is a free and open-source[6] distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS. 
+
+- Anaconda (packages included) - https://www.anaconda.com/products/individual
+- Miniconda (only Conda and Python packages included) - https://docs.conda.io/en/latest/miniconda.html
+
+### Installation
+
+To install the requirements using [conda](http://conda.pydata.org), run the following at the command-line:
+
+```
+$ conda install --file requirements.txt
+```
+
+To create a stand-alone environment named ``PDSH`` with Python 3.5 and all the required package versions, run the following:
+
+```
+$ conda create -n PDSH python=3.5 --file requirements.txt
+```
+
+You can read more about using conda environments in the [Managing Environments](http://conda.pydata.org/docs/using/envs.html) section of the conda documentation.
+
+# Jupyter Notebook Installation/Configuration
+## Video Instructions
+
+**[How To Install/Startup On Windows 10](https://www.youtube.com/watch?v=WlkEw0zDBzg)**
+---
+[![How To Install/Startup on Windows 10](https://img.youtube.com/vi/WlkEw0zDBzg/0.jpg)](https://www.youtube.com/watch?v=WlkEw0zDBzg)
+---
+
+**[How To Install/Startup On Mac OS](https://www.youtube.com/watch?v=F1cO_gLnh60)**
+---
+[![How To Install/Startup On Mac OS](https://img.youtube.com/vi/F1cO_gLnh60/0.jpg)](https://www.youtube.com/watch?v=F1cO_gLnh60)
+
+---
+**[How To Install/Startup Using ChromeOS](https://alex.miller.im/posts/data-science-chromebook-pixelbook-jupyter-python-r/)**
+---
+[![How To Install/Startup Using ChromeOS](https://img.youtube.com/vi/bhM1cCu8uXE/0.jpg)](https://www.youtube.com/watch?v=bhM1cCu8uXE)
 
 ---
 
-## Creating Github Repository
+**[How To Install/Startup Using Ubuntu Linux](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-in-linux/)**
+---
+[![How To Install/Startup Using Ubuntu Linux](https://img.youtube.com/vi/Yg9AkozItTU/0.jpg)](https://www.youtube.com/watch?v=Yg9AkozItTU)
 
-1. Create a New Github Repository by clicking on the green button entitled "New".
+- - - 
 
-![Click New Github Repository](files/github_new.png)
+## Package Application Managers
 
-2. When Creating A New Repository, be sure to give it a unique name, description, choose Public, and click on the box to Initialize this repository with a README.  Finally, click on the green button entitled **"Create Repository"**.
+You can install the executables of Anaconda, Conda, Python or you can use a Package Application Manager that is applicable to your operating system. This allows you to maintain, update, install and configure all the necessary software components via automated scripting.
 
-![Create New Github Repository](files/github_create.png)
+- [Brew (OS X, Linux)](https://brew.sh/)
+- [Chocolatey (Windows)](https://chocolatey.org/)
 
-3. Upon completion, click on the green button entitled **"Clone or Download"** but DO NOT download.  
+## What is BREW?
 
-![Copy Paste Git Hub Repository Git URL](files/github_clone.png)
+For Mac OS, Linux
 
-## Initializing New Github Repository
+Home-brew installs the stuff you need that Apple or your Linux system didn’t.  
+[See list of all packages](https://formulae.brew.sh/formula/)
 
-Simply click on the cut and paste icon right of the URL to copy the Git URL, then from command line submit the following commands: 
 
-```
-    > cd Documents
-    > cd Repositories
-    > git clone https://github.com/enterlifeonline/NewGitHub.git
-    > cd NewGitHub
-    > touch README.md
-    > git remote add NewGitHub https://github.com/enterlifeonline/NewGitHub.git
-    > git add *
-    > git commit -m "Initialized NewGitHub"
-    > git push
-```
+	⁃	BREW package definition files are called “formulae”
+	⁃	BREW “cask”, just like a formula, is for GUI installs.
+	⁃	BREW “cellar” is where everything is installed /usr/local/Cellar
 
-## Adding Contents from Your Computer To New Github Repository
 
-```
-    > cd Documents
-    > cd Repositories
-    > cd NewGitHub
-    > git add *
-    > git commit -m "Put Any Comments Here About New Contents"
-    > git push
-```
+The simplest way to create a formula for your own software is to create a GitHub repository called homebrew-<something>; put your formula file in it; then type brew tap <username>/<something> to add this new source of formulae to your Homebrew installation and so get access to all its formulae.
+
+Companies have internal Homebrew taps for their own utilities. There are a lot of public taps like homebrew/science for scientific software, atlassian/tap for Atlassian software, and ska-sa/tap for radio astronomy.
+
+**[Brew Formulae / Casks](https://formulae.brew.sh/)**
+
+## What is CHOCOLATEY?
+
+For Windows
+
+Chocolatey has the largest online registry of Windows packages. Chocolatey packages encapsulate everything required to manage a particular piece of software into one deployment artifact by wrapping installers, executables, zips, and/or scripts into a compiled package file.
+
+[Search all Chocolatey Packages](https://chocolatey.org/packages)
+
 - - -
 
-## Mastering Github
-
-> GitHub is often used as a basic Git host, but its platform has so much more to offer.
-> From simple and powerful issues and pull requests, to advanced features for power users
-> and integrators, it’s a tool worth knowing well in its own right. This session will
-> review everything you need to know to master collaboration with GitHub, from best
-> practices for GitHub Issues and how it represents basic Git concepts, to hidden features
-> and the tools enabling its developer ecosystem.
-
-- Git Hosting
-    - Create Repository
-        - With README
-        - With [.gitignore](https://github.com/github/gitignore)
-        - With [open source license](http://choosealicense.com/)
-        - Without inital commit (can't clone)
-    - Watch
-        - Not watching, Watching, Ignoring
-        - [Notifications Settings](https://github.com/settings/notifications)
-        - [User Watching List](https://github.com/watching)
-    - Fork
-        - Complete copy of the Repository
-        - Can fork to user or organization
-        - Part of parent project's "Network"
-        - Can easily open Pull Requests to propose contributions
-    - Code
-        - Find file
-            - Type <kbd>t</kbd> to activate
-            - (Type <kbd>?</kbd> to see all keyboard shortcuts)
-        - Search
-            - Search in code, commit messages, issues
-            - Scope: repo, organization or global
-        - Files
-
-            ```
-            {owner}/{repo}/tree/{commit-ish}/{path/to/tree}
-            ```
-
-        - Content
-
-            ```
-            {owner}/{repo}/blob/{commit-ish}/{path/to/blob}
-            ```
-
-        - Raw Download
-
-            ```
-            {owner}/{repo}/raw/{commit-ish}/{path/to/blob}
-            ```
-
-        - Blame
-
-            ```
-            {owner}/{repo}/blame/{commit-ish}/{path/to/blob}
-            ```
-
-        - History
-
-            ```
-            {owner}/{repo}/commits/{commit-ish}/{path/to/blob}
-            {owner}/{repo}/commits/{commit-ish}/{path/to/tree}
-            ```
-
-            - Filter by query string ([example](https://github.com/dahlbyk/posh-git/commits/master?since=2015-12-25&until=2016-01-01))
-                - `author=dahlbyk`
-                - `since=2015-12-25`
-                - `until=2016-01-01`
-        - Single Commit
-
-            ```
-            {owner}/{repo}/commit/{commit-ish}
-            {owner}/{repo}/commit/{commit-ish}.diff
-            {owner}/{repo}/commit/{commit-ish}.patch
-            ```
-
-            - Containing branches and PRs
-            - Can comment on lines and commit, but generally prefer comment in PR
-            - Add `?w=1` to URL to ignore whitespace in diff
-              ([example](https://github.com/dahlbyk/posh-git/commit/85ab3d7016a080c1927443524b4e3044eb9e588c?w=1))
-        - Modification
-            - New File / Upload, Edit File, Delete
-            - Commit to current branch _or_ create new branch for Pull Request
-        - Hacking `commit-ish`
-            - Previous commit: `master~`
-            - 100 commits ago: `master~100`
-            - Previous branch heads (`reflog`)
-                - `master@{1}`
-                - `master@{yesterday}`
-                - `master@{2016-01-01}`
-            - More at `git help revisions`
-        - Linking
-            - Type <kbd>y</kbd> to resolve `commit-ish` to canonical/permanent link
-            - Click a line number to highlight and link to that line (`#L123`)
-            - Hold Shift and click another line to highlight/link range (`#L123-L456`)
-    - Branches
-        - Can create and delete branches
-        - General Git Tips
-            - "Remote tracking branch" is what was on GitHub at last `fetch`/`pull`
-                - `refs/remotes/<remote>/<branch>` AKA `<remote>/<branch>`
-                - Configured with `remote.<name>.fetch`
-                    - `+refs/heads/*:refs/remotes/origin/*`
-                    - GitHub PR heads: `+refs/pull/*/head:refs/remotes/origin/pr/*`
-                - Deleted branches' tracking refs are not automatically deleted
-                    - `git remote prune origin`
-                    - `git fetch --prune`
-                    - Always want to prune?
-                        - `git config remote.<name>.prune true`
-                        - `git config fetch.prune true`
-            - Start work on a remote branch
-
-                ```
-                > git checkout -t origin/my-branch
-                On branch my-branch
-                Your branch is up-to-date with 'origin/my-branch'.
-                nothing to commit, working tree clean
-                ```
-
-                - Or, if `<branch>` exists on only one remote: `git checkout <branch>`
-                - Tracking lives in config
-
-                    ```
-                    git config branch.master.remote         # origin
-                    git config branch.master.merge          # refs/heads/master
-                    ```
-
-            - To set up tracking when pushing new branch
-
-                ```
-                > git push -u origin HEAD
-                Total 0 (delta 0), reused 0 (delta 0)
-                To https://github.com/dahlbyk/my-repo.git
-                * [new branch]      HEAD -> my-branch
-                Branch my-branch set up to track remote branch my-branch from origin.
-                ```
-
-                - Using `HEAD` pushes current branch to branch of same name
-                    - `git config --global alias.pc "push -u origin HEAD"`
-                - Can also use branch name to push any branch to branch of same name
-                - Can also use `source:destination` to push to branch of different name
-                    - `git push origin my-branch:my-awesome-branch`
-                - Have a convention to prefix branches with username?
-                    - `git config alias.pc = !git push -u origin HEAD:dahlbyk/$(git symbolic-ref --short HEAD)`
-                - To delete branch, `source` is empty: `git push origin :my-branch`
-        - Default Branch
-            - Shown when repo is opened
-            - Set as `<remote>/HEAD` on `git clone`
-                - Handy for global aliases to not assume `master`
-                - `git config --global alias.new "log --oneline --decorate --reverse origin.."`
-        - Protected Branches
-            - Disables force-pushes to this branch and prevents it from being deleted.
-            - (optional) Require pull request reviews before merging
-            - (optional) Require status checks to pass before merging
-        - Compare
-
-            ```
-            {owner}/{repo}/compare/{revision range}
-            {owner}/{repo}/compare/{revision range}.diff
-            {owner}/{repo}/compare/{revision range}.patch
-            ```
-
-            - `revision range` can either be a range (`<base>...<head>`)…
-            - …or a `commit-ish`, equivalent to `<default>...<head>`
-            - If `<base>` and `<head>` are both branches, can open a Pull Request
-            - `<base>` and `<head>` can include a fork prefix, e.g.
-              [`dahlbyk:master...coridrew:tfs`](https://github.com/dahlbyk/posh-git/compare/dahlbyk:master...coridrew:tfs)
-- Issues
-    - [GitHub-Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-        - Syntax highlighting
-        - Task lists
-        - Auto-linking
-            - Commit SHAs (`deadbeef` or `owner/repo@deadbeef`)
-            - Issue/PR references (`#1`, `repo#2`, `owner/repo#3`)
-            - Parsing of GitHub URLs (e.g. "#1 (comment)")
-    - Issue/PR mentions in issues/PRs/commits show up as references
-        - Build a graph of inter-related issues
-    - Milestones (due date, completion %)
-    - Labels
-    - Assignees
-        - New: multiple assignees
-- Pull Requests
-
-    ```
-    {owner}/{repo}/pull/{number}
-    {owner}/{repo}/pull/{number}.diff
-    {owner}/{repo}/pull/{number}.patch
-    ```
-
-    - Formerly "an issue attached to a branch"
-        - Could even use API to convert issue to PR…but you shouldn't
-    - Commits
-        - Used to link away to raw commit
-            - comments on commit/lines didn't work well; lost after `rebase`
-        - Now commits keep PR context, comments work much better
-    - Changes
-        - Comment per line
-        - Standalone or collected in a Review
-        - Can limit to changes since last review, or specific commit
-    - Deployments
-        - [Heroku Review Apps](https://devcenter.heroku.com/articles/github-integration-review-apps)
-    - Checks
-        - CI
-        - Linting
-        - Review Approval
-- Projects
-    - Add issues or notes to columns
-    - No workflow (e.g. Closed move to last column)
-    - Also check out [HuBoard](https://huboard.com/)
-- Repo Settings
-    - Merge button
-        - Merge commits
-        - Squash merging (noooooooo)
-        - Rebase merging (finally)
-        - Want: rebase then merge commit
-
-            ```
-            --*---------*------------*--
-               \       / \          /
-                *--*--*   *--*--*--*
-            ```
-
-    - GitHub Pages
-        - Not just gh-pages branch any more
-        - http://up-for-grabs.net/ is 100% static and GitHub-backed
-    - [Webhooks](https://developer.github.com/webhooks/)
-    - [Integrations](https://github.com/integrations)
-        - "Services" are obsolete
-- For Developers
-    - API [v3](https://developer.github.com/v3/)
-        - [OAuth](https://developer.github.com/v3/oauth/)
-    - [GraphQL](https://developer.github.com/early-access/graphql/) Early Access
-        - Limited scope, but used internally for new features (e.g. Projects)
-    - [Integrations](https://developer.github.com/early-access/integrations/) Early Access
-        - Different from integrations directory
-        - Primarily targeting "non-user" users, e.g. no more CI admin user
-- Gist
-    - One or more files
-    - Repository
-        - No directories - blocked on push
-    - https://bl.ocks.org/
+Copyright © 2020 Qualex Consulting Services Incorporated.
