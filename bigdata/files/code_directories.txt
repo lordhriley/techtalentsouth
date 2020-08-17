@@ -1,0 +1,5 @@
+./sources - Metadata / Architecture - Sources, Big Data (hadoop, nosql, spark), Cloud
+./etlq - ELTQ - Extract Transform Load Quality / Datetimes, Null Values, Key Joins, Summaries, Drop Data
+./visual - Visualization - Business Intelligence, Bar Charts, etc.
+./model - Model / Forecasting / Mining (math) 
+./automate - Machine Learning, 
