@@ -53,7 +53,7 @@ Qualex Institute (QLX-I) [Big Data: Setup and Installation Checklist](http://qlx
 
 ### Master Big Data In Little Time / History
  
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/datascience/python/index.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/bigdata/history/index.ipynb)
 
 The term ‘Big Data’ has been in use since the early 1990s. Although it is not exactly known who first used the term, most people credit John R. Mashey (who at the time worked at Silicon Graphics) for making the term popular.
 
@@ -63,25 +63,25 @@ However, in the last two decades, the volume and speed with which data is genera
 
 ### Master Big Data In Little Time / Data: SQL
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/datascience/r/index.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/bigdata/data/sql/index.ipynb)
 
 Structured Query Language) is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). It is particularly useful in handling structured data, i.e. data incorporating relations among entities and variables.
 
 ### Master Big Data In Little Time / Data: Hadoop
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/datascience/julia/index.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/bigdata/data/hadoop/index.ipynb)
 
 Apache Hadoop is a collection of open-source software utilities that facilitate using a network of many computers to solve problems involving massive amounts of data and computation. It provides a software framework for distributed storage and processing of big data using the MapReduce programming model. Originally designed for computer clusters built from commodity hardware—still the common use—it has also found use on clusters of higher-end hardware. All the modules in Hadoop are designed with a fundamental assumption that hardware failures are common occurrences and should be automatically handled by the framework.
 
 ### Master Big Data In Little Time / Data: NoSQL
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/datascience/frameworks/18_mod_django/index.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/bigdata/data/nosql/index.ipynb)
 
 A NoSQL (originally referring to "non-SQL" or "non-relational") database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. Such databases have existed since the late 1960s, but the name "NoSQL" was only coined in the early 21st century, triggered by the needs of Web 2.0 companies. NoSQL databases are increasingly used in big data and real-time web applications. NoSQL systems are also sometimes called "Not only SQL" to emphasize that they may support SQL-like query languages or sit alongside SQL databases in polyglot-persistent architectures.
 
 ### Master Big Data In Little Time / Data: Spark
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/datascience/frameworks/19_mod_flask/index.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enterlifeonline/techtalentsouth/blob/master/bigdata/data/spark/index.ipynb)
 
 Apache Spark is an open-source distributed general-purpose cluster-computing framework. Spark provides an interface for programming entire clusters with implicit data parallelism and fault tolerance.
 
@@ -108,6 +108,7 @@ $ conda create -n PDSH python=3.5 --file requirements.txt
 
 You can read more about using conda environments in the [Managing Environments](http://conda.pydata.org/docs/using/envs.html) section of the conda documentation.
 
+# Jupyter Notebook Installation/Configuration
 ## Video Instructions
 
 **[How To Install/Startup On Windows 10](https://www.youtube.com/watch?v=WlkEw0zDBzg)**
