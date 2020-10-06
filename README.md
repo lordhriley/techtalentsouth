@@ -21,15 +21,15 @@ In order to use Git Bash commands from command line, you need to install Git bas
 
 1. Create a New Github Repository by clicking on the green button entitled "New".
 
-![Click New Github Repository](../files/github_new.png)
+![Click New Github Repository](files/github_new.png)
 
 2. When Creating A New Repository, be sure to give it a unique name, description, choose Public, and click on the box to Initialize this repository with a README.  Finally, click on the green button entitled **"Create Repository"**.
 
-![Create New Github Repository](../files/github_create.png)
+![Create New Github Repository](files/github_create.png)
 
 3. Upon completion, click on the green button entitled **"Clone or Download"** but DO NOT download.  
 
-![Copy Paste Git Hub Repository Git URL](../files/github_clone.png)
+![Copy Paste Git Hub Repository Git URL](files/github_clone.png)
 
 ## Initializing New Github Repository
 
