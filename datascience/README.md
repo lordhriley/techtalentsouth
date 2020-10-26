@@ -6,7 +6,7 @@
 
 ### Python
 - - -
-**Tech Talent South** [Data Science: **Python** Setup and Installation Checklist](http://qlx.services/enablement/files/TTSDataScienceChecklistPython.pdf)
+**Tech Talent South** [Data Science: **Python** Setup and Installation Checklist](http://qlx.services/institute/files/datascience/TTSDataScienceChecklistPython.pdf)
 
 [A Whirlwind Tour of Python by Jake VanderPlas](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf) (O’Reilly). Copyright 2016 O’Reilly Media, Inc., ISBN: 978-1-491-96465-1. **[Download PDF](https://qlx.services/institute/files/a-whirlwind-tour-of-python.pdf)**
 
@@ -17,14 +17,14 @@
 ### R
 - - -
 
-**Tech Talent South** [Data Science: **R** Setup and Installation Checklist](https://qlx.services/institute/files/TTSDataScienceChecklistR.pdf)
+**Tech Talent South** [Data Science: **R** Setup and Installation Checklist](https://qlx.services/institute/files/datascience/TTSDataScienceChecklistR.pdf)
 
 [R for Data Science](https://r4ds.had.co.nz/) written by Garrett Grolemund, Hadley Wickham. (O’Reilly) Copyright 2017 O’Reilly Media, Inc.,  ISBN: 978-1-491-91039-9. **[Download PDF](https://qlx.services/institute/files/R_For_Data_Science.pdf)**
 
 ### Julia
 - - -
 
-**Tech Talent South** [Data Science: **Julia** Setup and Installation Checklist](#)
+**Tech Talent South** [Data Science: **Julia** Setup and Installation Checklist](https://qlx.services/institute/files/datascience/TTSDataScienceChecklistJulia.pdf)
 
 [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) by Ben Lauwens, Allen B. Downey. (O’Reilly) Copyright 2019 O’Reilly Media, Inc.,  ISBN: 978-1-492-04503-8. **[Download PDF](https://qlx.services/institute/files/think_julia.pdf)**
 
