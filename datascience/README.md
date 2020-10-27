@@ -111,18 +111,28 @@ $ conda create -n PDSH python=3.5 --file requirements.txt
 
 You can read more about using conda environments in the [Managing Environments](http://conda.pydata.org/docs/using/envs.html) section of the conda documentation.
 
+# Jupyter Notebook Installation/Configuration
 ## Video Instructions
+### Windows 10
 
-**[How To Install/Startup On Windows 10](https://www.youtube.com/watch?v=WlkEw0zDBzg)**
+**[How To Install/Startup On Windows 10](https://www.youtube.com/watch?v=otmWEEFysms)**
 ---
-[![How To Install/Startup on Windows 10](https://img.youtube.com/vi/WlkEw0zDBzg/0.jpg)](https://www.youtube.com/watch?v=WlkEw0zDBzg)
+[![How To Install/Startup on Windows 10](https://img.youtube.com/vi/otmWEEFysms/0.jpg)](https://www.youtube.com/watch?v=otmWEEFysms)
 ---
+
+**[How To Launch Jupyter Notebook On Windows 10](https://www.youtube.com/watch?v=WlkEw0zDBzg)**
+---
+[![How To Launch Jupyter Notebook on Windows 10](https://img.youtube.com/vi/WlkEw0zDBzg/0.jpg)](https://www.youtube.com/watch?v=WlkEw0zDBzg)
+---
+
+### MacOS
 
 **[How To Install/Startup On Mac OS](https://www.youtube.com/watch?v=F1cO_gLnh60)**
 ---
 [![How To Install/Startup On Mac OS](https://img.youtube.com/vi/F1cO_gLnh60/0.jpg)](https://www.youtube.com/watch?v=F1cO_gLnh60)
 
----
+### ChromeOS
+
 **[How To Install/Startup Using ChromeOS](https://alex.miller.im/posts/data-science-chromebook-pixelbook-jupyter-python-r/)**
 ---
 [![How To Install/Startup Using ChromeOS](https://img.youtube.com/vi/bhM1cCu8uXE/0.jpg)](https://www.youtube.com/watch?v=bhM1cCu8uXE)
